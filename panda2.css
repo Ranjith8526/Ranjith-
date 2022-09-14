@@ -1,0 +1,43 @@
+body{
+    margin-top:100px;
+    margin-right:100px;
+    margin-bottom:100px;
+    margin-left:100px;
+    border:10px solid darkgreen;
+}
+body{
+border-width:10px;
+   border-style:solid;
+}
+body{
+    font-style: oblique;
+}
+body{
+    box-sizing: inherit;
+}
+body{
+    box-decoration-break: var(border-style);
+}
+body{
+   text-decoration: wavy;
+}
+body{
+    box-sizing: content-box;
+}
+body{
+    text-rendering: optimizeLegibilitys;
+}
+body
+    {
+        border-style:double;
+    }
+body
+{
+      border:10px solid green;
+}
+button:hover{
+    background-color: blue;
+}
+
+
+
