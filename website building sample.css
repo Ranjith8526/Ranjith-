@@ -1,0 +1,53 @@
+
+#r1{
+    text-align:center;
+    font-size: 9mm;
+    background-color:antiquewhite;
+}
+#r3
+{
+    text-align: end;
+    font-size: 25px;
+    background-color: rgba(255, 0, 128, 0.044);
+}
+#r4{
+    font-size: 40px;
+}
+#r5
+{
+   font-size: 30px;
+   background-color: lightgray;
+}
+.r6{
+    font-size: 30px;
+    background-color: lightgray;
+}
+.Allign{
+   
+ margin-left: 70%;
+}
+.a1{
+    align-items: center;
+    justify-items: center;
+    display: flex;
+}
+#r7{
+    background-color: blanchedalmond;
+}
+#r8{
+    text-align: center;
+}
+button:hover
+{
+    background-color:darkslateblue;
+}
+body{
+    background-color: cadetblue;
+}
+#eee{
+    font-size: 30px;
+}
+
+
+
+
